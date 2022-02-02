@@ -62,7 +62,8 @@ namespace FlagSnag
                     pictureBox1.Image = Properties.Resources.RUSSIA;
                     break;
                 default:
-                    MessageBox.Show("Error: Invalid country name entered.");
+                    MessageBox.Show("Error: Invalid country name entered." + "\n"
+                    +" (Please capitalize the first letter.)");
                     break;
             }
         }
