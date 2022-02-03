@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sam\\Desktop\\PERSONAL\\Personal Coding Projects\\FlagSnag\\FlagSnag.csproj": {}
+    "C:\\Users\\Sam\\Desktop\\PERSONAL\\Coding\\Git\\FlagSnag\\FlagSnag\\FlagSnag.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sam\\Desktop\\PERSONAL\\Personal Coding Projects\\FlagSnag\\FlagSnag.csproj": {
+    "C:\\Users\\Sam\\Desktop\\PERSONAL\\Coding\\Git\\FlagSnag\\FlagSnag\\FlagSnag.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sam\\Desktop\\PERSONAL\\Personal Coding Projects\\FlagSnag\\FlagSnag.csproj",
+        "projectUniqueName": "C:\\Users\\Sam\\Desktop\\PERSONAL\\Coding\\Git\\FlagSnag\\FlagSnag\\FlagSnag.csproj",
         "projectName": "FlagSnag",
-        "projectPath": "C:\\Users\\Sam\\Desktop\\PERSONAL\\Personal Coding Projects\\FlagSnag\\FlagSnag.csproj",
+        "projectPath": "C:\\Users\\Sam\\Desktop\\PERSONAL\\Coding\\Git\\FlagSnag\\FlagSnag\\FlagSnag.csproj",
         "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sam\\Desktop\\PERSONAL\\Personal Coding Projects\\FlagSnag\\obj\\",
+        "outputPath": "C:\\Users\\Sam\\Desktop\\PERSONAL\\Coding\\Git\\FlagSnag\\FlagSnag\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sam\\AppData\\Roaming\\NuGet\\NuGet.Config",

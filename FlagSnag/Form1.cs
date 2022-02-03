@@ -22,13 +22,12 @@ namespace FlagSnag
         
         //Click event for the single button on the form.
         private void button1_Click_1(object sender, EventArgs e)
-        {
-            
+        { 
             string countryName = textBox1.Text;
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
 
-            /*Switch statement that will change the jpg
-             picture to the current country's national flag. */
+            /*Switch statement that will change the png
+             picture to the user input country's national flag.*/
             switch (countryName)
             {
                 case "United States":
