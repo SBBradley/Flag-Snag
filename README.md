@@ -2,7 +2,7 @@
 A program that generates flags of the world. Enter a country's name in the textbox and the corresponding flag will appear below it.
 
 ## User Interface
-Below are some screenshots of the program during execution:
+Below are screenshots of the program during execution:
 
 ![Screenshot of running program U S](https://user-images.githubusercontent.com/97514020/152634442-3ca8d574-8c12-447a-a670-b546b2b8b1ba.png)
 
