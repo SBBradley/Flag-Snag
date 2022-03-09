@@ -1,6 +1,12 @@
 # FlagSnag
 A program that generates flags of the world. Enter a country's name in the textbox and the corresponding flag will appear below it.
 
+## Installation / Usage
+1. Fork this repo.
+2. Copy the link from the [Code] dropdown.
+3. Use [git clone "the link you copied"] in terminal of Visual Studio.
+4. Run FlagSnag.sln to use the program.
+
 ## User Interface
 Below are screenshots of the program during execution:
 
