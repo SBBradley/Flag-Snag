@@ -1,11 +1,10 @@
 # FlagSnag
-A program that generates flags of the world. Enter a country's name in the textbox and the corresponding flag will appear below it.
 このプログラムは世界の国旗を生成します。テキストボックスに国の名前を入力すると、該当する国旗が表示されます。
 
 ## インスタレーション／使用方法
-1.このレポジトリをフォークする。
-2.「Code]のドロップダウンからリンクをコピーする。
-3.Visual Studioの端末に「git clone ”コピーしたリンク”」を入れる。
+1.このレポジトリをフォークする。<br>
+2.「Code]のドロップダウンからリンクをコピーする。<br>
+3.Visual Studioの端末に「git clone ”コピーしたリンク”」を入れる。<br>
 4.FlagSnag.slnをランする。
 
 ## ユーザーインタフェース
